@@ -10,3 +10,7 @@ This repo contains the name of the people who are going/have gone through impost
 * You don’t have to know everything, about everything.
 
 And many more. Let's keep this repo growing by your thoughtful PRs and comments.
+
+## People who have experinced importor syndrome
+
+1. [Yaser Adel Mehraban](https://twitter.com/yashints)
